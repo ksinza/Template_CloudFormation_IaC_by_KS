@@ -61,4 +61,5 @@ El stack exporta varios recursos que pueden ser utilizados por otros stacks de C
 ## Author
 
 **Kevin Sinza Salcedo** *Ingeniero en Sistemas | Desarrollando de Software*
+
 [LinkedIn](https://www.linkedin.com/in/kevin-sinza-967488105)

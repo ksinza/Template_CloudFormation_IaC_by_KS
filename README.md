@@ -60,4 +60,5 @@ The stack exports several resources that can be used by other CloudFormation sta
 ## Author
 
 **Kevin Sinza Salcedo** *Systems Engineer | Software Developer*
+
 [LinkedIn](https://www.linkedin.com/in/kevin-sinza-967488105)
